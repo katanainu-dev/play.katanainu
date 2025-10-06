@@ -224,14 +224,14 @@ const Navs = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.discord.gg/katanainu"
+                    href="https://discord.gg/KatanaInuOfficial"
                     target="_blank"
                     rel="noreferrer"
                   >
                     Discord
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     href="https://www.reddit.com/r/KatanaInu_Official/s/GhZuLPs1hh"
                     target="_blank"
@@ -239,7 +239,7 @@ const Navs = () => {
                   >
                     Reddit
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a
                     href="https://medium.com/@katanainu/katana-inu-a-great-play2earn-battle-royale-pc-game-with-nft-marketplace-on-layer-2-a56f9bbcce79"
